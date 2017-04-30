@@ -3,6 +3,6 @@
   */
 object HelloWorld {
 
-  def hello() : String = { return "Hello, World!"}
+  def hello() : String = { "Hello, World!"}
 
 }
